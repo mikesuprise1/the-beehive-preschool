@@ -6,7 +6,7 @@
 a,
 a:focus,
 a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(68, 115, 216);
 }
 
 /* Custom default button */
@@ -99,6 +99,9 @@ body {
   font-weight: 700;
 }
 
+.cover-heading {
+    padding-top: 50px;
+  }
 
 /*
  * Footer
