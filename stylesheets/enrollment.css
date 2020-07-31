@@ -151,3 +151,8 @@ img {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
